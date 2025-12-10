@@ -227,7 +227,14 @@ If you use this project or data, please cite:
 ## Acknowledgments
 
 - Authors of the original metaproteomics study (Microbiome 2024) for providing harmonized, open-access supplementary data.
-- Collaborators: [xxx].
+
+## Collaborators:
+
+| Name | Code |
+|------|------|
+| Habiba Mamdouh | 4230192 |
+| Hamza Elghonemy | 1210218 |
+| Mohamed Mostafa | 4230197 |
 
 ---
 
@@ -241,5 +248,3 @@ If you use this project or data, please cite:
 | **SHAP** | Interpretable ML method; assigns each feature a "contribution" to each prediction. |
 | **SMOTE** | Oversampling technique to synthetically generate minority class samples in imbalanced datasets. |
 | **PR-AUC** | Precision-Recall Area Under Curve; preferred metric for imbalanced classification. |
-
-```
